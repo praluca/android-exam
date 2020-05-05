@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bilet1</string>
+    <string name="adauga_citat_title">Adauga Citat</string>
+    <string name="sincronizare_retea_title">Sincronizare Retea</string>
+    <string name="autor_title">Autor</string>
+    <string name="text_title">Text</string>
+    <string name="nr_aprecieri_title">Nr. aprecieri</string>
+    <string name="categorie_title">Categorie</string>
+    <string name="btn_salveaza_title">Salveaza</string>
+    <string name="autor_message_error">Autorul nu este valid</string>
+    <string name="text_message_error">Textul nu este valid</string>
+    <string name="nrAprecieri_message_error">Nr. de aprecieri nu este valid</string>
+    <string name="btn_sterge_title">Sterge</string>
+    <string-array name="categorie_items">
+        <item>familie</item>
+        <item>sport</item>
+        <item>filozofie</item>
+        <item>motivationale</item>
+    </string-array>
+</resources>
